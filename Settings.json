@@ -1,0 +1,13 @@
+{
+    "guild": "1131835674123845644",
+    "staff_role": "1132723206655057940",
+    "state": "W. ?",
+    "local": true,
+    "local_staff": true,
+    "file": "./voices/member.mp3",
+    "file_staff": "./voices/staff.mp3",
+    "youtube": "https://youtu.be/4GLJC8HImlY?si=eAz-OZd2QuOrxFcA",
+    "youtube_staff": "https://youtu.be/4KC75a-eW88?si=Na95K5oLRN4HALAH",
+    "tokens": ["MTE3OTQ1Mjc2MTQ0NDczMzAyMA.GoA_Dn.9KC24MvIs_ZTM1he0_hPoARWw9m81my3L5cUsw"],
+    "channels": ["1131835674887200831"]
+}
